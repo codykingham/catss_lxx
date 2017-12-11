@@ -5,7 +5,7 @@
 @source=http://ccat.sas.upenn.edu/rak//catss.html
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-12-08T23:50:25Z
+@dateWritten=2017-12-11T21:21:52Z
 
 623686	Genesis
 Exodus

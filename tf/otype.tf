@@ -5,7 +5,7 @@
 @source=http://ccat.sas.upenn.edu/rak//catss.html
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-12-08T23:50:26Z
+@dateWritten=2017-12-11T21:21:53Z
 
 1-623685	word
 623686-623744	book

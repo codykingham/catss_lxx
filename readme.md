@@ -1,6 +1,15 @@
 # CATSS LXX Data
 
-This is a [Text-Fabric](https://github.com/Dans-labs/text-fabric) resource (python3) converted from the [publicly available](http://ccat.sas.upenn.edu/rak//catss.html) Septuagint database. CATSS stands for "Computer Assisted Tools for Septuagint/Scriptural Study." The data is supplied by the University of Pennsynvania's Center for Computer Analysis of Texts (CCAT).
+## Updates
+
+### 2017-12-11
+New features and corrections added:<br> 
+* Now morphology has been extracted from the morphology codes. These new features are in [tf/enrichments](tf/enrichments). In total there are 11 new features: `typ` [part of speech], `styp` [subtype of part of speech], `lex` [lexeme], `case`, `gender`, `number`, `tense`, `voice`, `mood`, `person`, `degree` [comparative/superlative for adjectives].
+* all values are mostly self-explanatory with the exception of the feature `styp`, see the [CCAT Morphology documentation](http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/*Morph-Coding) to decode.
+* all data has been extracted from the `morph` feature as stored in the "PARSE" code of CATSS. See link above for its explanation. 
+
+### Provenance
+This is a [Text-Fabric](https://github.com/Dans-labs/text-fabric) resource (python3) converted from the [publicly available](http://ccat.sas.upenn.edu/rak//catss.html) CATSS Septuagint database. CATSS stands for "Computer Assisted Tools for Septuagint/Scriptural Study." The data is supplied by the University of Pennsynvania's Center for Computer Analysis of Texts (CCAT).
 
 Future versions of this dataset will include links to the Eep Talstra Centre for Bible and Computer's [BHSA Hebrew Database](https://github.com/ETCBC/bhsa) for use in statistical studies between the Hebrew Bible and Greek Septuagint.
 

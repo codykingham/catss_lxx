@@ -7,5 +7,5 @@
 @sectionTypes=book,chapter,verse
 @source=http://ccat.sas.upenn.edu/rak//catss.html
 @writtenBy=Text-Fabric
-@dateWritten=2017-12-08T23:50:29Z
+@dateWritten=2017-12-11T21:21:55Z
 
