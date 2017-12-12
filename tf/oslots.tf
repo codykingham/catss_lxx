@@ -5,7 +5,7 @@
 @source=http://ccat.sas.upenn.edu/rak//catss.html
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-12-11T21:21:55Z
+@dateWritten=2017-12-11T23:52:44Z
 
 623686	1-32566
 32567-57382

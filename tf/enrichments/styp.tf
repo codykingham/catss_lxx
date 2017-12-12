@@ -5,7 +5,7 @@
 @source=http://ccat.sas.upenn.edu/rak//catss.html
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-12-11T21:27:53Z
+@dateWritten=2017-12-12T00:03:21Z
 
 P
 N1
