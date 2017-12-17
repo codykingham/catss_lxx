@@ -2,6 +2,9 @@
 
 ## Updates
 
+### 2017-12-17
+Work continues with the parallel files. Currently I am still processing the Hebrew/Greek columns, which require quite a bit of regex patterns and exceptions. Especially troublesome are the CATSS text critical notations, which are either poorly documented or there are many mistakes in the parallel files. This has caused delays in the parallel module development. Once the data is processed though, I will begin making the slot connections. But that too is likely to take a while due to the quirky nature of the LXX text. 
+
 ### 2017-12-16
 New UTF8 feature added to the surface form of words using James Tauber's [Greek utilities](https://github.com/jtauber/greek-utils) for processing the Betacode transcriptions. There is not yet utf8 for lexemes.
 
